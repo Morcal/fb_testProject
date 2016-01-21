@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><!--color规范--><!--渲染模块+组件+体现方式-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@mipmap/bg_menu_pressed" android:state_pressed="true"></item>
+    <item android:drawable="@mipmap/bg_menu_normal" ></item>
+</selector>

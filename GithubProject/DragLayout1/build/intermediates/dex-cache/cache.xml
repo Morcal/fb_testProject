@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\GithubProject\DragLayout1\app\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="F:\GithubProject\DragLayout1\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-17ff95229100e87eb272c4d6510ff50c768b84d9.jar" />
+    </item>
+    <item
+        jar="F:\GithubProject\DragLayout1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="F:\GithubProject\DragLayout1\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-20685bcc1b459ee036129617c46621b450a44c21.jar" />
+    </item>
+    <item
+        jar="F:\GithubProject\DragLayout1\app\libs\universal-image-loader-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f667a2f4f27542fe11a6781f5f7ac572d27afcec">
+        <dex dex="F:\GithubProject\DragLayout1\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.0-23418f26659a6a5ef8678452390c786f7f8b74ca.jar" />
+    </item>
+    <item
+        jar="F:\GithubProject\DragLayout1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="F:\GithubProject\DragLayout1\app\build\intermediates\pre-dexed\debug\classes-e48edd76419511c064375aa039760f81d91ea39e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\android-sdk-studio\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="F:\GithubProject\DragLayout1\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-de0cb2b2ac8204c6a9a4d3a3c95f9ff340e19109.jar" />
+    </item>
+
+</items>

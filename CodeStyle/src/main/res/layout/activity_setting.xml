@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><!--layout命名规范--><!--组件+模块-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--大块区域、布局的命名-->
+
+    <RelativeLayout
+        android:id="@+id/home_search_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!--控件命名-->
+        <!--模块/大块区域+[功能/修饰]-->
+        <!--id命名是不要带上具体的控件缩写，由于可能对实现采用不同的控件，维护时会造成额外的负担。-->
+        <EditText
+            android:id="@+id/home_search_bar_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+    <!--大块区域home页面内容-->
+    <RelativeLayout
+        android:id="@+id/home_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </RelativeLayout>
+
+</LinearLayout>

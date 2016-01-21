@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <!--layout规范-->
+<!--适用于列表/网格布局的项目 或者 类似项目的实现-->
+<!--item+<模块>+<描述>-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</LinearLayout>

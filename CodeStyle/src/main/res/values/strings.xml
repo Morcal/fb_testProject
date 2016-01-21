@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <!--String命名-->
+    <!--格式:[模块]_<功能> 要表达的功能-->
+    <string name="net_erro">网络出错</string>
+    <string name="input_password">输入密码</string>
+
+    <!--格式：直接表明为哪个模块所用或者作为什么使用，用"_" 隔开;-->
+    <array name="app_function_style"></array>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?><!--以实现功能为目的的动画，有具体的场景，则以场景功能命名。--><!--命名为登录框的动画-->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+</set>
